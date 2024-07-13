@@ -91,7 +91,6 @@ async function renderNavbar(container, data) {
 	}
 
 	container.appendChild(renderNavCat('Ver todos'));
-	container.appendChild(renderNavCat('Contacto'));
 
 	return container
 }
